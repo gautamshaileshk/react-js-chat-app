@@ -1,0 +1,17 @@
+@import "tailwindcss";
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
